@@ -1,6 +1,10 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    
+}
+p, h1, h2, h3 {
+    font-family: 'Roboto';
 }
 
 /* Wrapping element */
